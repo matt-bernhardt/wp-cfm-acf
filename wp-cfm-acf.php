@@ -3,7 +3,7 @@
 Plugin Name: WP-CFM ACF
 Plugin URI: http://level-level.com
 Description: WP-CFM for Advanced Custom Fields groups
-Version: 0.1.0
+Version: 0.2.0-beta1
 Author: Level Level
 Author URI: http://level-level.com
 License: GPLv2

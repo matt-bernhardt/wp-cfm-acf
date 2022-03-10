@@ -1,0 +1,12 @@
+{
+    "name": "level-level/wp-cfm-acf",
+    "description": "Extension to export ACF groups with WP-CFM",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Matt Bernhardt",
+            "email": "mjbernha@mit.edu"
+        }
+    ],
+    "require": {}
+}
